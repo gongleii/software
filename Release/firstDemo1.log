@@ -1,0 +1,9 @@
+﻿  main.cpp
+    正在创建库 C:\Users\lenovo\Documents\Visual Studio 2015\Projects\firstDemo1\Release\firstDemo1.lib 和对象 C:\Users\lenovo\Documents\Visual Studio 2015\Projects\firstDemo1\Release\firstDemo1.exp
+  正在生成代码
+  0 of 444 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  firstDemo1.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2015\Projects\firstDemo1\Release\firstDemo1.exe
+  firstDemo1.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2015\Projects\firstDemo1\Release\firstDemo1.pdb (Full PDB)
