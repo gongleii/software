@@ -1,0 +1,2 @@
+都是按照老师给的教程一步步来做的，所以直接避免了课件上的问题，但是由于我无法使用VC2010，所以使用codeblocks进行编程，在编译中只出现了一个问题，就是缺少"kernel32.lib"，
+百度了一下，只要将C:\Program Files\Microsoft SDKs\Windows\v7.1A\Lib 中的kernel32.lib，复制到VC2010中相应位置就行了。
